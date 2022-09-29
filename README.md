@@ -15,7 +15,7 @@
 
 ## 🎥 타이머 작동 영상 (+소리)
 
-<img src="https://user-images.githubusercontent.com/75922558/192914345-a8063945-4448-4186-999f-9ba2dd0597bb.gif" width="200"/>
+[![Group 8](https://user-images.githubusercontent.com/75922558/192920995-e6a57803-eede-4b78-b6c2-19d3fee54d72.png)](https://user-images.githubusercontent.com/75922558/192920016-9d86b418-c7a6-4916-92cd-71d1d3fac877.mp4)
 
 <br/>
 
